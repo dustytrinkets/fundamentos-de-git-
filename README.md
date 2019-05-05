@@ -1,2 +1,2 @@
-# fundamentos-de-git-
+# git-fundamentals
 Pluralsight course on git fundamentals
